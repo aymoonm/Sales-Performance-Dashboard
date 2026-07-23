@@ -39,7 +39,7 @@ The company wants to understand:
 
 ## 📈 Dashboard Preview
 
-(Add Dashboard Screenshot Here)
+![Dashboard](Dashboard.png)
 
 ---
 
